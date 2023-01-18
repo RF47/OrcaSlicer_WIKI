@@ -45,7 +45,7 @@ Steps:
 
 ### Tower method
 The tower method may take a bit more time to complete, but it does not rely on the quality of the first layer. 
-The PA value for this test will be increased by 0.002 for every 1 mm increase in height.  
+The PA value for this test will be increased by 0.002 for every 1 mm increase in height.  (**NOTE** 0.02 for Bowden)  
 Steps:
  1. Select the printer, filament, and process you would like to use for the test.
  2. Examine each corner of the print and mark the height that yields the best overall result.
