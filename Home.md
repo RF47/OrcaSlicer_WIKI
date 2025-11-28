@@ -54,6 +54,21 @@ OrcaSlicer is a powerful open source slicer for FFF (FDM) 3D Printers. This wiki
 
 ![filament](https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/filament.svg?raw=true) Settings related to the 3D printing material.
 
+- Material settings
+  - ![param_information](https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/param_information.svg?raw=true) [Basic Information](material_basic_information)
+  - ![param_flow_ratio_and_pressure_advance](https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/param_flow_ratio_and_pressure_advance.svg?raw=true) [Flow Ratio and Pressure Advance](material_flow_ratio_and_pressure_advance)
+  - ![param_chamber_temp](https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/param_chamber_temp.svg?raw=true) [Print Chamber temperature](material_print_chamber_temperature)
+  - ![param_extruder_temp](https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/param_extruder_temp.svg?raw=true)![param_bed_temp](https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/param_bed_temp.svg?raw=true) [Material temperatures](material_temperatures)
+  - ![param_volumetric_speed](https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/param_volumetric_speed.svg?raw=true) [Volumetric Speed limitation](material_volumetric_speed_limitation)
+- Cooling
+  - ![param_cooling_specific_layer](https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/param_cooling_specific_layer.svg?raw=true) [Cooling for specific layer](material_cooling_for_specific_layer)
+  - ![param_cooling_part_fan](https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/param_cooling_part_fan.svg?raw=true) [Material Fan](material_fan)
+- [Setting Overrides](material_setting_overrides)
+- ![param_gcode](https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/param_gcode.svg?raw=true) [Advanced](material_advanced)
+- [Multimaterial](material_multimaterial)
+- ![param_dependencies_printers](https://github.com/OrcaSlicer/OrcaSlicer/blob/main/resources/images/param_dependencies_printers.svg?raw=true) [Dependencies](material_dependencies)
+
+
 ## Process Settings
 
 ![process-preset](https://github.com/OrcaSlicer/OrcaSlicer_WIKI/blob/main/images/GUI/process-preset.png?raw=true)
